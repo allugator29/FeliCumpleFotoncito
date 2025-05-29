@@ -57,8 +57,8 @@ h1 {
 
 .container-fotos img {
     position: relative;
-    width: 300px;
-    height: 200px;
+    width: 350px;
+    height: 250px;
     object-fit: cover;
     filter: drop-shadow(0 0 20px #CDAF90);
     transition: transform 2s ease, filter 2s ease;
